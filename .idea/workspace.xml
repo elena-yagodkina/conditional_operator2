@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4b69bfb-481a-4f8c-8a8a-538ab71a8f95" name="Changes" comment="master_push">
-      <change afterPath="$PROJECT_DIR$/src/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task5.java" afterDir="false" />
+    <list default="true" id="c4b69bfb-481a-4f8c-8a8a-538ab71a8f95" name="Changes" comment="my_homework">
+      <change afterPath="$PROJECT_DIR$/cycle_while/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cycle_while/src/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cycle_while/src/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cycle_while/src/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cycle_while/src/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cycle_while/src/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cycle_while/src/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cycle_while/src/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cycle_while/src/Task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,9 +37,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2ZTjjZ7x2ZF30kbtmxPVhHTPWBP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,52 +49,53 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-17"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task3">
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task1" />
-      <module name="homework" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2" />
-      <module name="homework" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task3" />
-      <module name="homework" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task8">
     <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task4" />
-      <module name="homework" />
+      <module name="cycle_while" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task5" />
-      <module name="homework" />
+      <module name="cycle_while" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task6" />
+      <module name="cycle_while" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task7" />
+      <module name="cycle_while" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task8" />
+      <module name="cycle_while" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task8" />
+        <item itemvalue="Application.Task7" />
+        <item itemvalue="Application.Task6" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -112,6 +118,17 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="master_push" />
